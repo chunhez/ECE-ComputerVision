@@ -1,0 +1,41 @@
+﻿  main.c
+d:\clemson\ece631\lab4\plus-2017\main.c(174): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+d:\clemson\ece631\lab4\plus-2017\main.c(175): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+d:\clemson\ece631\lab4\plus-2017\main.c(176): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+d:\clemson\ece631\lab4\plus-2017\main.c(177): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+d:\clemson\ece631\lab4\plus-2017\main.c(178): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+d:\clemson\ece631\lab4\plus-2017\main.c(179): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+d:\clemson\ece631\lab4\plus-2017\main.c(180): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+d:\clemson\ece631\lab4\plus-2017\main.c(181): warning C4047: '=': 'int' differs in levels of indirection from 'void *'
+d:\clemson\ece631\lab4\plus-2017\main.c(371): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\clemson\ece631\lab4\plus-2017\main.c(378): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\clemson\ece631\lab4\plus-2017\main.c(385): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+d:\clemson\ece631\lab4\plus-2017\main.c(441): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+d:\clemson\ece631\lab4\plus-2017\main.c(487): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+d:\clemson\ece631\lab4\plus-2017\main.c(117): warning C4101: 'r2': unreferenced local variable
+d:\clemson\ece631\lab4\plus-2017\main.c(117): warning C4101: 'c': unreferenced local variable
+d:\clemson\ece631\lab4\plus-2017\main.c(117): warning C4101: 'c2': unreferenced local variable
+d:\clemson\ece631\lab4\plus-2017\main.c(120): warning C4101: 'var': unreferenced local variable
+d:\clemson\ece631\lab4\plus-2017\main.c(120): warning C4101: 'avg': unreferenced local variable
+d:\clemson\ece631\lab4\plus-2017\main.c(117): warning C4101: 'r': unreferenced local variable
+d:\clemson\ece631\lab4\plus-2017\main.c(848): warning C4026: function declared with formal parameter list
+d:\clemson\ece631\lab4\plus-2017\main.c(1029): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+d:\clemson\ece631\lab4\plus-2017\main.c(967): warning C4101: 'hDC': unreferenced local variable
+d:\clemson\ece631\lab4\plus-2017\main.c(953): warning C4101: 'fpt': unreferenced local variable
+d:\clemson\ece631\lab4\plus-2017\main.c(965): warning C4101: 'wcolor': unreferenced local variable
+d:\clemson\ece631\lab4\plus-2017\main.c(966): warning C4101: 'text': unreferenced local variable
+d:\clemson\ece631\lab4\plus-2017\main.c(1259): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+d:\clemson\ece631\lab4\plus-2017\main.c(1196): warning C4101: 'hDC': unreferenced local variable
+d:\clemson\ece631\lab4\plus-2017\main.c(1197): warning C4101: 'wedge': unreferenced local variable
+d:\clemson\ece631\lab4\plus-2017\main.c(1183): warning C4101: 'fpt': unreferenced local variable
+d:\clemson\ece631\lab4\plus-2017\main.c(1195): warning C4101: 'text': unreferenced local variable
+d:\clemson\ece631\lab4\plus-2017\main.c(1491): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+d:\clemson\ece631\lab4\plus-2017\main.c(1431): warning C4101: 'eweight': unreferenced local variable
+d:\clemson\ece631\lab4\plus-2017\main.c(1430): warning C4101: 'hDC': unreferenced local variable
+d:\clemson\ece631\lab4\plus-2017\main.c(1418): warning C4101: 'fpt': unreferenced local variable
+d:\clemson\ece631\lab4\plus-2017\main.c(1429): warning C4101: 'text': unreferenced local variable
+d:\clemson\ece631\lab4\plus-2017\main.c(1674): warning C4244: '=': conversion from 'double' to 'unsigned char', possible loss of data
+d:\clemson\ece631\lab4\plus-2017\main.c(1614): warning C4101: 'hDC': unreferenced local variable
+d:\clemson\ece631\lab4\plus-2017\main.c(1602): warning C4101: 'fpt': unreferenced local variable
+d:\clemson\ece631\lab4\plus-2017\main.c(1613): warning C4101: 'text': unreferenced local variable
+  plus.vcxproj -> D:\CLEMSON\ECE631\lab4\plus-2017\.\Debug\plus.exe
